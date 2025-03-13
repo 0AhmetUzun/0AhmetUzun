@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">- I'm Ahmet from Turkey. Im passionate about improving myself...<br>- 📚 I'm currently studying Computer Engineering at Selçuk University.<br>- ⚡ In my free time, I enjoy engaging in sports, listening music, traveling, and reading.</p>
+<p align="center">- I'm Ahmet from Turkey. Im passionate about improving myself...<br>- 📚 I'm currently studying Computer Engineering at Selçuk University.<br>- ⚡ In my free time, I enjoy engaging in sports, listening music, traveling, and reading...</p> 
 
 ###
 
