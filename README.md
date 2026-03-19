@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">- I'm Ahmet from Turkey. Im passionate about improving myself...<br>- 📚I'm currently studying Computer Engineering at Selçuk University.<br>- ⚡In my free time, I enjoy engaging in sports especially basketball, listening music, traveling, reading... <br>- I’m currently working on unity and unreal engine for game development <br>- 📫 How to reach me: ahmethadiuzun@gmail.com </p> 
+<p align="center">- I'm Ahmet from Turkey. Im passionate about improving myself...<br>- 📚I'm currently studying Computer Engineering at Selçuk University.<br>- ⚡In my free time, I enjoy engaging in sports especially basketball, listening music, traveling, reading... <br>- I’m currently working on programming with c# <br>- 📫 How to reach me: ahmethadiuzun@gmail.com </p> 
 
 ###
 
